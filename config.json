@@ -1,0 +1,12 @@
+{
+  "telegram_token": "YOUR_TELEGRAM_BOT_TOKEN",
+  "chat_ids": {
+    "Анна": 123456789,
+    "Олег": 987654321
+  },
+  "emails": {
+    "Анна": "anna@example.com",
+    "Олег": "oleg@example.com"
+  },
+  "spreadsheet_id": "YOUR_GOOGLE_SHEET_ID"
+}

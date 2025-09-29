@@ -1,12 +1,12 @@
 {
-  "telegram_token": "YOUR_TELEGRAM_BOT_TOKEN",
+  "telegram_token": "8352172499:AAFLDYrLuFinc8aBK_cAHwfTRZU0Q10AyN8",
   "chat_ids": {
-    "Анна": 123456789,
-    "Олег": 987654321
+    "Anton": 598331739,
+    "Юля": 1376013605
   },
   "emails": {
-    "Анна": "anna@example.com",
-    "Олег": "oleg@example.com"
+    "Anton": "romashov_a@ukr.net",
+    "Юля": "romashova.yulya88@gmail.com"
   },
-  "spreadsheet_id": "YOUR_GOOGLE_SHEET_ID"
-}
+  "spreadsheet_id": "17xmYKN9Wb0ttJrSmi4u-MCV5T8AcWrUhcSvf-MZYmgo"
+} 
